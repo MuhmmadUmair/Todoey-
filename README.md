@@ -129,5 +129,3 @@ flutter run
 **Muhammad Umair**
 • [LinkedIn](https://www.linkedin.com/in/muhmmadumair3233)
 
-
-Would you like me to include **sample snippets** of `TaskData` and how the `Provider` is set up in `main.dart` for this README?
